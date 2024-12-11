@@ -1,2 +1,2 @@
 # Java-School-Intermediate
-Practice14_01の演習問題を提出しました
+Practice14_02の演習問題を提出しました
