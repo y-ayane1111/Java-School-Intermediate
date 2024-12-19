@@ -1,2 +1,2 @@
 # Java-School-Intermediate
-Practice15の演習問題を提出しました
+Practice15_02とComprehensiveIntermediateの01,02を提出しました
