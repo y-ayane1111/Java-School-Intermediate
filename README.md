@@ -1,2 +1,2 @@
 # Java-School-Intermediate
-Practice15_02とComprehensiveIntermediateの01,02を提出しました
+ComprehensiveIntermediateの04を提出しました
