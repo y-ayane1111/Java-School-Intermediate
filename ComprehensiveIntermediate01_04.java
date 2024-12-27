@@ -15,9 +15,9 @@ public class ComprehensiveIntermediate01_04 {
             System.out.println("料金は" + (people * 600) + "円です");
 
         } else if (5 <= people && people < 20) {
-            System.out.println("料金は" + (people * 500) + "円です");
-        } else {
             System.out.println("料金は" + (people * 550) + "円です");
+        } else {
+            System.out.println("料金は" + (people * 500) + "円です");
         }
     }
 }
