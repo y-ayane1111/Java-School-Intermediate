@@ -1,2 +1,2 @@
 # Java-School-Intermediate
-ComprehensiveIntermediateの03,05を提出しました
+ComprehensiveIntermediateの03を提出しました
